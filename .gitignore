@@ -1,0 +1,36 @@
+# SSH/private keys
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.secret
+credentials
+credentials.*
+secrets/
+.aws/
+aws-credentials
+config.json
+
+# Logs
+*.log
+logs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+__pycache__/
