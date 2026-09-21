@@ -4,7 +4,7 @@
 
 Understand secure remote administration and SSH key permissions.
 
-## Connecting to the EC2 server
+## Connecting to the AWS EC2 server
 
 From your local computer:
 
@@ -32,3 +32,32 @@ ssh-keygen -t ed25519 -C "linux-lab"
 - `-C` adds a comment.
 
 Never commit private keys to GitHub.
+
+---
+
+## Practice
+
+### Protect the EC2 private key on your local
+
+![alt text](../screenshots/19.png)
+
+<br>
+
+### Connect to EC2 from LOCAL machine
+
+![alt text](../screenshots/20.png)
+
+<br>
+
+### Generate a practice Ed25519 key on a machine where you control the private key
+
+![alt text](../screenshots/21.png)
+
+<br>
+
+### Inspect the public key.
+
+![alt text](../screenshots/22.png)
+
+
+❌ Never display, upload, or commit the private key:
