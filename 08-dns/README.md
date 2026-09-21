@@ -27,3 +27,19 @@ sudo apt install dnsutils
 ```
 
 DNS resolution is separate from whether a service is reachable on a particular port.
+
+----
+
+## Practice
+
+### System name resolution
+
+![alt text](../screenshots/29.png)
+
+<br>
+
+### DNS queries
+
+![alt text](../screenshots/30.png)
+
+![alt text](../screenshots/31.png)
