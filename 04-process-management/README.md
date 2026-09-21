@@ -35,3 +35,34 @@ The `-a` option includes the command line.
 - `du -sh DIRECTORY` shows directory size.
 
 Only terminate processes you understand and own, or processes you have been instructed to manage.
+
+---
+
+## Practice
+
+### List processes
+
+![alt text](../screenshots/10.png)
+
+<br>
+
+### Search for SSH processes
+
+![alt text](../screenshots/11.png)
+
+
+<br>
+
+### Start a harmless test process in the background
+
+Start a harmless test process in the background
+
+![alt text](../screenshots/12.png)
+
+<br>
+
+### System resource checks
+
+![alt text](../screenshots/13.png)
+
+![alt text](../screenshots/14.png)
