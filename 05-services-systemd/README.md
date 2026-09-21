@@ -33,3 +33,25 @@ sudo journalctl -u SERVICE --since "1 hour ago"
 ## Safety
 
 Do not stop SSH on a remote EC2 server unless you have a recovery plan. Losing the SSH service can disconnect you.
+
+---
+
+## Practice
+
+### SSH service checks
+
+![alt text](../screenshots/15.png)
+
+![alt text](../screenshots/16.png)
+
+<br>
+
+### Check Logs
+
+![alt text](../screenshots/17.png)
+
+<br>
+
+### Follow logs interactively:
+
+![alt text](../screenshots/18.png)
