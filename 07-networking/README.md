@@ -21,3 +21,38 @@ Inspect IP addresses, routes, listening ports, and basic network connectivity.
 - `-n` numeric output without name resolution
 
 Port 80 is the default HTTP port used by Nginx in this lab.
+
+
+---
+
+## Practice
+
+### IP addresses and interfaces
+
+![alt text](../screenshots/23.png)
+
+<br>
+
+### Routing table
+
+![alt text](../screenshots/24.png)
+
+<br>
+
+### Listening TCP/UDP ports
+
+![alt text](../screenshots/25.png)
+
+<br>
+
+### Connectivity tests
+
+![alt text](../screenshots/26.png)
+
+![alt text](../screenshots/27.png)
+
+<br>
+
+### HTTP requests
+
+![alt text](../screenshots/28.png)
