@@ -23,6 +23,7 @@ sudo ss -tulpn | grep ':80' || true
 curl http://localhost
 curl -I http://localhost
 
+
 # Test the public endpoint from the server.
 # Replace with the instance public IP if desired:
 # curl -I http://YOUR_PUBLIC_IP

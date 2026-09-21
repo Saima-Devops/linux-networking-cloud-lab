@@ -32,3 +32,5 @@ SSH administration should be restricted to your own public IP whenever practical
 ## Important
 
 Do not publish your real IP in repository documentation if you do not want it exposed. In GitHub documentation, use placeholders such as `YOUR_PUBLIC_IP/32`.
+
+![alt text](../screenshots/34.png)
