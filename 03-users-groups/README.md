@@ -22,3 +22,29 @@ For `usermod -aG developers labuser`:
 - `-G` = specify supplementary groups.
 
 Do not omit `-a` when you intend to add rather than replace supplementary group membership.
+
+---
+
+## Practice
+
+### Users/Group/Membership
+
+![alt text](../screenshots/6.png)
+
+<br>
+
+### Create a test user
+
+![alt text](../screenshots/7.png)
+
+<br>
+
+### Create a test group & Add the test user to the supplementary group
+
+![alt text](../screenshots/8.png)
+
+<br>
+
+### switch to the test user
+
+![alt text](../screenshots/9.png)
