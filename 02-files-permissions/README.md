@@ -29,3 +29,13 @@ Use `ls -l` to inspect permissions and ownership.
 ## Warning
 
 Only use `sudo chown` and `chmod` on files you created for this lab unless you specifically understand the system file you are changing.
+
+---
+
+## Practice
+
+### Ownership/Permissions
+
+![alt text](../screenshots/4.png)
+
+![alt text](../screenshots/5.png)
