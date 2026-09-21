@@ -37,7 +37,7 @@ Check:
 sudo ufw status verbose
 ```
 
-![alt text](../screenshots/32.png)
+![alt text](../screenshots/33.png)
 
 ----
 
@@ -162,6 +162,6 @@ sudo ufw status numbered
 
 ---
 
-AWS Security Group = external/cloud firewall layer \
+- AWS Security Group = external/cloud firewall layer 
 
-UFW = host-level firewall layer.
+- UFW = host-level firewall layer.
